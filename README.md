@@ -34,7 +34,7 @@ Places-in-Bulgaria.json
 ```javascript
 {
   "Пловдив": {
-	"Пловдив": {
+    "Пловдив": {
       "56784": {
         "name": "Пловдив",
         "type": "гр.",
