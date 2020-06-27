@@ -17,7 +17,7 @@ Places-in-Bulgaria.json
         "latitutude": 12.345678, // GPS ширина
         "longitude": 23.456789, // GPS дължина
         "post_codes": [
-        	"4000",
+            "4000",
             "4001",
             "4002",
             "4003",
