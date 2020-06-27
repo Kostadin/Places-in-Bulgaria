@@ -77,19 +77,19 @@ Places-in-Bulgaria.json
 
 
 
-Някои уточнения: "София" и "София област" са две различни области. Градът София и близките до него градове и села се намират в област "София". Област "София област" граничи с област "София", но е отделна административна единица. Повече информация (тук)[https://bg.wikipedia.org/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D1%8F#%D0%9D%D1%8F%D0%BA%D0%BE%D0%B8_%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8_%D0%B7%D0%B0%D0%B1%D0%B5%D0%BB%D0%B5%D0%B6%D0%BA%D0%B8].
+Някои уточнения: "София" и "София област" са две различни области. Градът София и близките до него градове и села се намират в област "София". Област "София област" граничи с област "София", но е отделна административна единица. Повече информация [тук](https://bg.wikipedia.org/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D1%8F#%D0%9D%D1%8F%D0%BA%D0%BE%D0%B8_%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8_%D0%B7%D0%B0%D0%B1%D0%B5%D0%BB%D0%B5%D0%B6%D0%BA%D0%B8).
 
 Източниците на информация са няколко уебсайта със свободна публична информация:
 
-[https://pnb.pc-remonti.net/ekatte]
-[https://www.bgpost.bg/bg/17]
-[https://crc.bg/files/_bg/post_codes_all__4_-_2016full.pdf]
-[https://www.nsi.bg/nrnm/]
-[https://kais.cadastre.bg/bg/Map]
+(https://pnb.pc-remonti.net/ekatte)
+(https://www.bgpost.bg/bg/17)
+(https://crc.bg/files/_bg/post_codes_all__4_-_2016full.pdf)
+(https://www.nsi.bg/nrnm/)
+(https://kais.cadastre.bg/bg/Map)
 
-Информацията беше първоначално сглобена от (Линкър Геймс ЕООД)[https://www.linkergames.com/] и е безплатна и свободна за използване и разпространение.
+Информацията беше първоначално сглобена от [Линкър Геймс ЕООД](https://www.linkergames.com/) и е безплатна и свободна за използване и разпространение.
 
-Ако намерите грешки, неточности или липсваща информация, моля, помогнете за общото благо като съобщите за това (тук)[https://github.com/Kostadin/Places-in-Bulgaria/issues] или качете Pull Request (тук)[https://github.com/Kostadin/Places-in-Bulgaria/pulls]. При Ваше желание, ще получите признание за приноса Ви на текущата страница.
+Ако намерите грешки, неточности или липсваща информация, моля, помогнете за общото благо като съобщите за това [тук](https://github.com/Kostadin/Places-in-Bulgaria/issues) или качете Pull Request [тук](https://github.com/Kostadin/Places-in-Bulgaria/pulls). При Ваше желание, ще получите признание за приноса Ви на текущата страница.
 
 Ако имате нужда от подробна информация за границите на всяко отделно населено място, препоръчваме следния източник на информация:
-[https://github.com/yurukov/Bulgaria-geocoding]
+(https://github.com/yurukov/Bulgaria-geocoding)
