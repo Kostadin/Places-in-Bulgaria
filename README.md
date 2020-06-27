@@ -81,15 +81,15 @@ Places-in-Bulgaria.json
 
 Източниците на информация са няколко уебсайта със свободна публична информация:
 
-(https://pnb.pc-remonti.net/ekatte)
-(https://www.bgpost.bg/bg/17)
-(https://crc.bg/files/_bg/post_codes_all__4_-_2016full.pdf)
-(https://www.nsi.bg/nrnm/)
-(https://kais.cadastre.bg/bg/Map)
+  * https://pnb.pc-remonti.net/ekatte
+  * https://www.bgpost.bg/bg/17
+  * https://crc.bg/files/_bg/post_codes_all__4_-_2016full.pdf
+  * https://www.nsi.bg/nrnm/
+  * https://kais.cadastre.bg/bg/Map
 
 Информацията беше първоначално сглобена от [Линкър Геймс ЕООД](https://www.linkergames.com/) и е безплатна и свободна за използване и разпространение.
 
 Ако намерите грешки, неточности или липсваща информация, моля, помогнете за общото благо като съобщите за това [тук](https://github.com/Kostadin/Places-in-Bulgaria/issues) или качете Pull Request [тук](https://github.com/Kostadin/Places-in-Bulgaria/pulls). При Ваше желание, ще получите признание за приноса Ви на текущата страница.
 
 Ако имате нужда от подробна информация за границите на всяко отделно населено място, препоръчваме следния източник на информация:
-(https://github.com/yurukov/Bulgaria-geocoding)
+https://github.com/yurukov/Bulgaria-geocoding
