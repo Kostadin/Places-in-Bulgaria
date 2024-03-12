@@ -87,7 +87,7 @@ Places-in-Bulgaria.json
   * https://www.nsi.bg/nrnm/
   * https://kais.cadastre.bg/bg/Map
 
-Информацията беше първоначално сглобена от [Линкър Геймс ЕООД](https://www.linkergames.com/) и е безплатна и свободна за използване и разпространение.
+Информацията беше първоначално сглобена от [Линкър Геймс ООД](https://www.linkergames.com/) и е безплатна и свободна за използване и разпространение.
 
 Ако намерите грешки, неточности или липсваща информация, моля, помогнете за общото благо като съобщите за това [тук](https://github.com/Kostadin/Places-in-Bulgaria/issues) или качете Pull Request [тук](https://github.com/Kostadin/Places-in-Bulgaria/pulls). При Ваше желание, ще получите признание за приноса Ви на текущата страница.
 
